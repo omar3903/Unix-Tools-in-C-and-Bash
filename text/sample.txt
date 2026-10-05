@@ -1,0 +1,3 @@
+Pipes connect the output of one program
+to the input of the next.
+Small tools, combined well, do big jobs.

@@ -1,0 +1,4 @@
+bin/
+valid.txt
+output.txt
+*.o

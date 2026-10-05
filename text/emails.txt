@@ -1,0 +1,22 @@
+Valid:
+jane.doe@example.com
+first.last-name@example.co.uk
+john_smith+news@mail.example.org
+user123@sub-domain.example.ca
+a@b.io
+
+Invalid:
+jane..doe@example.com
+.jane@example.com
+jane.@example.com
+jane@example
+jane@.example.com
+jane doe@example.com
+jane&doe@example.com
+jane=doe@example.com
+jane'doe@example.com
+jane,doe@example.com
+<jane>@example.com
+jane!@example.com
+@example.com
+jane@example.c
